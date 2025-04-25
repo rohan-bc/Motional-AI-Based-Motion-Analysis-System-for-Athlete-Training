@@ -1,6 +1,7 @@
 # Motional: AI-Based Motion Analysis System for Athlete Training
 
 ## 1. Project Overview
+![Screenshot 2025-04-06 003647](https://github.com/user-attachments/assets/5ac79a41-d203-4fe0-b94c-c86f03cda2f8)
 
 Motional is an AI-powered motion analysis system designed to help athletes train effectively by analyzing their movements using RGB camera video and wearable sensor data. The system tracks key motion patterns, evaluates exercise accuracy, and provides real-time feedback to optimize performance.
 
