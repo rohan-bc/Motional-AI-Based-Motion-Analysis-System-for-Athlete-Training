@@ -173,5 +173,4 @@ The AI coaching system provides:
 - ROHAN BC - 21BRS1016
 
 ## 9. License
-
-[Specify License Information] 
+MIT license
